@@ -1,6 +1,6 @@
 # 📚 Striver's A2Z DSA Sheet - Progress Tracker
 
-Hi! I'm currently solving the [Striver's A2Z DSA Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) to strengthen my problem-solving and data structures foundation.
+Hi! I'm currently solving the [Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2) to strengthen my problem-solving and data structures foundation.
 
 This repository is my personal progress tracker and solution collection using **C++**.
 
