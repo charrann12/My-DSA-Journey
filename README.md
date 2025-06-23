@@ -8,7 +8,7 @@ This repository is my personal progress tracker and solution collection using **
 
 ## 📈 Current Progress
 
-- ✅ Problems Solved: **50+**
+- ✅ Problems Solved: **35+**
 - 🧠 Currently on Topic: **Linked List**
 - 🎯 Goal: Master 450+ curated problems for top tech placements
 
@@ -18,23 +18,24 @@ This repository is my personal progress tracker and solution collection using **
 
 | Sl. No | Topic                         | Problems | Status         |
 |--------|-------------------------------|----------|----------------|
-| 1      | Basics + Math                 | 20       | ✅ Done         |
-| 2      | Arrays                        | 20       | ✅ Done         |
-| 3      | Searching & Sorting           | 10       | ✅ Done         |
-| 4      | Linked List                   | --       | 🔄 In Progress  |
-| 5      | Stack, Queue, Deque           | --       | ⏳ Upcoming     |
+| 1      | Basics + Math                 | 10       | ✅ Done         |
+| 2      | Arrays                        | 9        | ✅ Done         |
+| 3      | Strings                       | 9        | ✅ Done         |
+| 4      | Searching & Sorting           | 9        | ✅ Done         |
+| 5      | Single Linked List            | 9        | 🔄 In Progress  |
+| 6      | Double LL, Stack, Queue       | --       | ⏳ Upcoming     |
 
 ---
 
 ## 📂 Folder Structure
 
 ```
-A2Z_DSA/
-│
+
 ├── 01_Basics/
 ├── 02_Arrays/
-├── 03_Sorting_Searching/
-└── 04_LinkedList/
+├── 03_Strings/
+├── 04_Sorting_Searching/
+└── 05_LinkedList/
 ```
 
 ---
