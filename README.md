@@ -51,13 +51,13 @@ The sheet is structured to build DSA intuition from ground zero to advanced leve
 ## 🧾 References
 
 - [Striver’s A2Z Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
-- [LeetCode Profile](https://leetcode.com/yourusername/)
-- [My LinkedIn Post](#) *(once shared)*
+- [LeetCode Profile](https://leetcode.com/u/charrann__/)
+  
 
 ---
 
 ### 💬 Connect With Me
 
 - 📍 B.Tech CSE, NIT Durgapur (Batch 2027)
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🛠️ [GitHub](https://github.com/yourusername)
+- 🔗 [LinkedIn](https://linkedin.com/in/saicharannethi93816)
+- 🛠️ [GitHub](https://github.com/charrann12)
