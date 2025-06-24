@@ -22,7 +22,7 @@ This repository is my personal progress tracker and solution collection using **
 | 2      | Arrays                        | 9        | ✅ Done         |
 | 3      | Strings                       | 10       | ✅ Done         |
 | 4      | Searching & Sorting           | 9        | ✅ Done         |
-| 5      | Linked List                   | 12       | 🔄 In Progress  |
+| 5      | Linked List                   | 13       | 🔄 In Progress  |
 | 6      | Double LL, Stack, Queue       | --       | ⏳ Upcoming     |
 
 ---
