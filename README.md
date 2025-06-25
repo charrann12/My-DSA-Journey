@@ -18,7 +18,7 @@ This repository is my personal progress tracker and solution collection using **
 
 | Sl. No | Topic                         | Problems | Status         |
 |--------|-------------------------------|----------|----------------|
-| 1      | Basics + Math                 | 10       | ✅ Done         |
+| 1      | Math                          | 10       | ✅ Done         |
 | 2      | Arrays                        | 13       | ✅ Done         |
 | 3      | Strings                       | 13       | ✅ Done         |
 | 4      | Searching & Sorting           | 9        | ✅ Done         |
