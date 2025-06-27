@@ -18,7 +18,7 @@ This repository is my personal progress tracker and solution collection using **
 
 | Sl. No | Topic                         | Problems | Status         |
 |--------|-------------------------------|----------|----------------|
-| 1      | Math & Bit Manipulation       | 10       | ✅ Done         |
+| 1      | Math & Bit Manip              | 10       | ✅ Done         |
 | 2      | Arrays                        | 14       | ✅ Done         |
 | 3      | Strings                       | 14       | ✅ Done         |
 | 4      | Searching & Sorting           | 9        | ✅ Done         |
