@@ -19,11 +19,11 @@ This repository is my personal progress tracker and solution collection using **
 | Sl. No | Topic                         | Problems | Status         |
 |--------|-------------------------------|----------|----------------|
 | 1      | Math & Bit Manip              | 10       | ✅ Done         |
-| 2      | Arrays                        | 14       | ✅ Done         |
+| 2      | Arrays                        | 15       | ✅ Done         |
 | 3      | Strings                       | 14       | ✅ Done         |
-| 4      | Searching & Sorting           | 9        | ✅ Done         |
-| 5      | Linked List                   | 17       | 🔄 In Progress  |
-| 6      | Stack, Queue                  | --       | ⏳ Upcoming     |
+| 4      | Searching & Sorting           | 09       | ✅ Done         |
+| 5      | Linked List                   | 17       | ✅ Done         |
+| 6      | Stack & Queue                 | 04       | 🔄 In Progress  |
 
 ---
 
@@ -35,7 +35,8 @@ This repository is my personal progress tracker and solution collection using **
 ├── 02_Arrays/
 ├── 03_Strings/
 ├── 04_Sorting_Searching/
-└── 05_LinkedList/
+├── 05_LinkedList/
+├── 06_StacknQueue/
 ```
 
 ---
