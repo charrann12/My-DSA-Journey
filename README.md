@@ -8,7 +8,7 @@ This repository is my personal progress tracker and solution collection using **
 
 ## 📈 Current Progress
 
-- ✅ Problems Solved: **60+**
+- ✅ Problems Solved: **75+**
 - 🧠 Currently on Topic: **Linked List**
 - 🎯 Goal: Master 450+ curated problems for top tech placements
 
@@ -23,7 +23,7 @@ This repository is my personal progress tracker and solution collection using **
 | 3      | Strings                       | 14       | ✅ Done         |
 | 4      | Searching & Sorting           | 09       | ✅ Done         |
 | 5      | Linked List                   | 17       | ✅ Done         |
-| 6      | Stack & Queue                 | 08       | 🔄 In Progress  |
+| 6      | Stack & Queue                 | 15       | 🔄 In Progress  |
 
 ---
 
