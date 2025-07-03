@@ -19,7 +19,7 @@ This repository is my personal progress tracker and solution collection using **
 | Sl. No | Topic                         | Problems | Status         |
 |--------|-------------------------------|----------|----------------|
 | 1      | Math & Bit Manip              | 12       | ✅ Done         |
-| 2      | Arrays                        | 20       | ✅ Done         |
+| 2      | Arrays                        | 21       | ✅ Done         |
 | 3      | Strings                       | 15       | ✅ Done         |
 | 4      | Searching & Sorting           | 09       | ✅ Done         |
 | 5      | Linked List                   | 17       | ✅ Done         |
