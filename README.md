@@ -24,7 +24,7 @@ This repository is my personal progress tracker and solution collection using **
 | 4      | Searching & Sorting           | 10       | ✅ Done         |
 | 5      | Linked List                   | 17       | ✅ Done         |
 | 6      | Stack & Queue                 | 23       | ✅ Done         |
-| 7      | 2 Pointer & Sliding Window    | 06       | 🔄 In Progress  |
+| 7      | 2 Pointer & Sliding Window    | 07       | 🔄 In Progress  |
 
 ---
 
