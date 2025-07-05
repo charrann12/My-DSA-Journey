@@ -8,8 +8,8 @@ This repository is my personal progress tracker and solution collection using **
 
 ## 📈 Current Progress
 
-- ✅ Problems Solved: **85+**
-- 🧠 Currently on Topic: **Linked List**
+- ✅ Problems Solved: **110+**
+- 🧠 Currently on Topic: **Sliding Window and Two Pointer**
 - 🎯 Goal: Master 450+ curated problems for top tech placements
 
 ---
