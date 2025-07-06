@@ -21,7 +21,7 @@ This repository is my personal progress tracker and solution collection using **
 | 1      | Math & Bit Manip              | 12       | ✅ Done         |
 | 2      | Arrays                        | 22       | ✅ Done         |
 | 3      | Strings                       | 16       | ✅ Done         |
-| 4      | Searching & Sorting           | 10       | ✅ Done         |
+| 4      | Searching & Sorting           | 12       | ✅ Done         |
 | 5      | Linked List                   | 17       | ✅ Done         |
 | 6      | Stack & Queue                 | 23       | ✅ Done         |
 | 7      | 2 Pointer & Sliding Window    | 14       | 🔄 In Progress  |
