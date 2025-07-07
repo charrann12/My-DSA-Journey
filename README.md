@@ -9,7 +9,7 @@ This repository is my personal progress tracker and solution collection using **
 ## 📈 Current Progress
 
 - ✅ Problems Solved: **110+**
-- 🧠 Currently on Topic: **Sliding Window and Two Pointer**
+- 🧠 Currently on Topic: **Greedy Algorithms**
 - 🎯 Goal: Master 450+ curated problems for top tech placements
 
 ---
@@ -24,7 +24,8 @@ This repository is my personal progress tracker and solution collection using **
 | 4      | Searching & Sorting           | 14       | ✅ Done         |
 | 5      | Linked List                   | 17       | ✅ Done         |
 | 6      | Stack & Queue                 | 23       | ✅ Done         |
-| 7      | 2 Pointer & Sliding Window    | 16       | 🔄 In Progress  |
+| 7      | 2 Pointer & Sliding Window    | 16       | ✅ Done         |
+| 8      | Greedy Algorithms             | 1        | 🔄 In Progress  |
 
 ---
 
@@ -38,6 +39,8 @@ This repository is my personal progress tracker and solution collection using **
 ├── 04_Sorting_Searching/
 ├── 05_LinkedList/
 ├── 06_StacknQueue/
+├── 07_2pointer_SlidingWindow/
+├── 08_Greedy_Algorithms/
 ```
 
 ---
