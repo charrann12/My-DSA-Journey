@@ -25,7 +25,7 @@ This repository is my personal progress tracker and solution collection using **
 | 5      | Linked List                   | 17       | ✅ Done         |
 | 6      | Stack & Queue                 | 23       | ✅ Done         |
 | 7      | 2 Pointer & Sliding Window    | 16       | ✅ Done         |
-| 8      | Greedy Algorithms             | 04       | 🔄 In Progress  |
+| 8      | Greedy Algorithms             | 05       | 🔄 In Progress  |
 
 ---
 
