@@ -26,7 +26,7 @@ This repository is my personal progress tracker and solution collection using **
 | 6      | Stack & Queue                 | 23       | ✅ Done         |
 | 7      | 2 Pointer & Sliding Window    | 16       | ✅ Done         |
 | 8      | Greedy Algorithms             | 13       | ✅ Done         |
-| 8      | Binary Trees                  | 07       | 🔄 In Progress  |
+| 8      | Binary Trees                  | 09       | 🔄 In Progress  |
 
 ---
 
