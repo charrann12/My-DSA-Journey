@@ -8,8 +8,8 @@ This repository is my personal progress tracker and solution collection using **
 
 ## 📈 Current Progress
 
-- ✅ Problems Solved: **110+**
-- 🧠 Currently on Topic: **Greedy Algorithms**
+- ✅ Problems Solved: **120+**
+- 🧠 Currently on Topic: **Binary Trees**
 - 🎯 Goal: Master 450+ curated problems for top tech placements
 
 ---
