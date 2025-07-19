@@ -27,7 +27,7 @@ This repository is my personal progress tracker and solution collection using **
 | 7      | 2 Pointer & Sliding Window    | 16       | ✅ Done         |
 | 8      | Greedy Algorithms             | 13       | ✅ Done         |
 | 9      | Binary Trees                  | 10       | 🔄 In Progress  |
-| 10     | Recursion                     | 2        | 🔄 In Progress  |
+| 10     | Recursion                     | 6        | 🔄 In Progress  |
 
 ---
 
