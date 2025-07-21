@@ -17,7 +17,7 @@ public:
     int maxSum(TreeNode* root, int &maxi){
         if(root == NULL) return 0;
 
-        int ls = max(0, maxSum(root->left, maxi));
+        int ls = max(0, maxSum(root->left, maxi)); // check if there exists any negative values then they are considered as 0
         int rs = max(0, maxSum(root->right, maxi));
         maxi = max(maxi, ls+rs+root->val );
 
