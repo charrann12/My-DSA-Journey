@@ -18,9 +18,9 @@ This repository is my personal progress tracker and solution collection using **
 
 | Sl. No | Topic                         | Problems | Status         |
 |--------|-------------------------------|----------|----------------|
-| 1      | Math & Bit Manip              | 12       | ✅ Done         |
+| 1      | Math & Bit Manip              | 13       | ✅ Done         |
 | 2      | Arrays                        | 25       | ✅ Done         |
-| 3      | Strings                       | 17       | ✅ Done         |
+| 3      | Strings                       | 18       | ✅ Done         |
 | 4      | Searching & Sorting           | 14       | ✅ Done         |
 | 5      | Linked List                   | 17       | ✅ Done         |
 | 6      | Stack & Queue                 | 23       | ✅ Done         |
