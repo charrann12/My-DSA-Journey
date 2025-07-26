@@ -8,8 +8,8 @@ This repository is my personal progress tracker and solution collection using **
 
 ## 📈 Current Progress
 
-- ✅ Problems Solved: **120+**
-- 🧠 Currently on Topic: **Binary Trees And Recursion**
+- ✅ Problems Solved: **150+**
+- 🧠 Currently on Topic: **Binary Search Trees**
 - 🎯 Goal: Master 450+ curated problems for top tech placements
 
 ---
@@ -26,8 +26,9 @@ This repository is my personal progress tracker and solution collection using **
 | 6      | Stack & Queue                 | 23       | ✅ Done         |
 | 7      | 2 Pointer & Sliding Window    | 16       | ✅ Done         |
 | 8      | Greedy Algorithms             | 13       | ✅ Done         |
-| 9      | Binary Trees                  | 20       | 🔄 In Progress  |
-| 10     | Recursion                     | 7        | 🔄 In Progress  |
+| 9      | Recursion                     | 9        | ✅ Done         |
+| 10     | Binary Trees                  | 9        | ✅ Done         |
+| 11     | Binary Search Tree            | 1        | 🔄 In Progress  |
 
 ---
 
@@ -43,8 +44,9 @@ This repository is my personal progress tracker and solution collection using **
 ├── 06_StacknQueue/
 ├── 07_2pointer_SlidingWindow/
 ├── 08_Greedy_Algorithms/
-├── 09_Binary_Trees/
-├── 10_Recursion/
+├── 09_Recursion/
+├── 10_Binary_Trees/
+├── 10_BST/
 ```
 
 ---
