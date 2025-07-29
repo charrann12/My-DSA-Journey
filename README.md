@@ -28,7 +28,7 @@ This repository is my personal progress tracker and solution collection using **
 | 8      | Greedy Algorithms             | 13       | ✅ Done         |
 | 9      | Recursion                     | 9        | ✅ Done         |
 | 10     | Binary Trees                  | 20       | ✅ Done         |
-| 11     | Binary Search Tree            | 6        | 🔄 In Progress  |
+| 11     | Binary Search Tree            | 7        | 🔄 In Progress  |
 
 ---
 
