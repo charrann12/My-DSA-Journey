@@ -9,7 +9,7 @@ This repository is my personal progress tracker and solution collection using **
 ## 📈 Current Progress
 
 - ✅ Problems Solved: **150+**
-- 🧠 Currently on Topic: **Binary Search Trees**
+- 🧠 Currently on Topic: **Graphs**
 - 🎯 Goal: Master 450+ curated problems for top tech placements
 
 ---
@@ -29,6 +29,7 @@ This repository is my personal progress tracker and solution collection using **
 | 9      | Recursion                     | 9        | ✅ Done         |
 | 10     | Binary Trees                  | 20       | ✅ Done         |
 | 11     | Binary Search Tree            | 7        | 🔄 In Progress  |
+| 12     | Graph Theory                  | 1        | 🔄 In Progress  |
 
 ---
 
@@ -46,7 +47,8 @@ This repository is my personal progress tracker and solution collection using **
 ├── 08_Greedy_Algorithms/
 ├── 09_Recursion/
 ├── 10_Binary_Trees/
-├── 10_BST/
+├── 11_BST/
+├── 12_Graphs/
 ```
 
 ---
