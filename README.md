@@ -29,7 +29,7 @@ This repository is my personal progress tracker and solution collection using **
 | 9      | Recursion                     | 9        | ✅ Done         |
 | 10     | Binary Trees                  | 20       | ✅ Done         |
 | 11     | Binary Search Tree            | 7        | 🔄 In Progress  |
-| 12     | Graph Theory                  | 1        | 🔄 In Progress  |
+| 12     | Graph Theory                  | 2        | 🔄 In Progress  |
 
 ---
 
